@@ -13,6 +13,7 @@ ASP.NET으로 개발한 학교 시설 예약 사이트
 
 ## 실행환경
 - Window 10
+- Visual Studio Community 2022
 
 ## 디자인
 - 피그마 디자인
@@ -38,7 +39,7 @@ Commit 메세지
 
 ### Commit Type Rule
 
-🪛[chore]: 코드 수정, 내부 파일 수정
+✂️[chore]: 코드 수정, 내부 파일 수정
 
 ✨[feat]: 새로운 기능 구현
 
